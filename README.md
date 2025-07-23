@@ -4,6 +4,8 @@
 
 **termlm** is an intelligent command-line assistant that transforms natural language descriptions into executable shell commands. Simply describe what you want to accomplish, and termlm will generate the appropriate command for your system.
 
+![gif demo of the CLI](docs/demo_gif.gif)
+
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 ![Go Version](https://img.shields.io/badge/go-1.23.4+-00ADD8.svg)
 ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux-lightgrey.svg)
